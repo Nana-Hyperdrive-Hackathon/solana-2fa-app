@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "237082064100",
+    "project_id": "nanaweb3-db",
+    "storage_bucket": "nanaweb3-db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:237082064100:android:deca727c99a7ec2244a8f1",
+        "android_client_info": {
+          "package_name": "com.example.push_notifications"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "237082064100-imm3b4unt3jb9mantobdnvnfgnomko9d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwTcG3iTC4y_uAWLfEwPqEF3GC1ZxRcmw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "237082064100-imm3b4unt3jb9mantobdnvnfgnomko9d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
